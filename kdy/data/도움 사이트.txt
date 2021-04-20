@@ -1,0 +1,4 @@
+https://codetorial.net/matplotlib/add_text.html
+- matplotlib 텍스트 꾸미기
+https://www.python2.net/questions-378559.htm
+- 그래프 value 0 설정
