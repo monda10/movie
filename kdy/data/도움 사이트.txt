@@ -5,3 +5,7 @@ https://www.python2.net/questions-378559.htm
 
 https://physikk.tistory.com/60
 -축에 단위 기호 넣기
+
+
+https://kongdols-room.tistory.com/84
+- 축에 수치 단위 올리기 ( 기본 100만 초과시 수치오버때 이용  ) 
